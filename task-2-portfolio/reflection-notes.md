@@ -1,46 +1,15 @@
-# Task 2 – Student Digital Portfolio
+# Task 2 – Digital Portfolio Reflection
 
 ## Platforms Set Up
-- **GitHub** – Code hosting and version control (profile README created)
-- **LinkedIn** – Professional networking (Education section filled)
-- **Kaggle** – Data Science and ML platform (bio and profile updated)
+- GitHub – Code hosting and version control platform
+- LinkedIn – Professional networking platform
+- Kaggle – Data Science and Machine Learning platform
 
 ## Screenshots
-- github-profile.png
-- linkedin-education.png
-- kaggle-profile.png
-```
-4. Click **"Commit changes"** ✅
+- github-profile.png – Screenshot of GitHub profile with README
+- linkedin-education.png – Screenshot of LinkedIn Education section
+- kaggle-profile.png – Screenshot of Kaggle profile
 
----
-
-### Step 2 — Add the GitHub Profile README content
-1. Still inside `task-2-portfolio/` folder
-2. Click **"Add file"** → **"Create new file"**
-3. Name it `github-profile-README.md`
-4. Paste the content from your profile repo README
-5. Commit ✅
-
----
-
-### Step 3 — Upload screenshots
-1. Go into `task-2-portfolio/` folder
-2. Click **"Add file"** → **"Upload files"**
-3. Upload:
-   - `github-profile.png`
-   - `linkedin-education.png`
-   - `kaggle-profile.png`
-4. Commit ✅
-
----
-
-After this your repo will look like:
-```
-digital-literacy-project/
-├── report/                 ✅
-├── task-1-presentation/    ✅
-├── task-2-portfolio/       ✅ ← added back
-├── task-3-platforms/       ✅
-├── task-4-email-etiquette/ ✅
-├── task-5-cybercrime/      ✅
-└── README.md               ✅
+## Notes
+All profiles were set up using college email.
+Profiles are kept professional and minimal as per task guidelines.
