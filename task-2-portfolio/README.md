@@ -9,7 +9,7 @@
 
 ### 2. LinkedIn
 - Filled in Education section with degree and institution
-- Expected graduation: 2028
+- Expected graduation: 2029
 - Platform used for: professional networking and internships
 
 ### 3. Kaggle
